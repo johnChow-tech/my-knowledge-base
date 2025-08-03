@@ -21,18 +21,25 @@ Every note in this repository should be concise, practical, and, most importantl
 
 ## 知识库索引 (Knowledge Base Index)
 
-* **[01_Programming_Languages](./01_Programming_Languages/)**
-    > Core concepts of programming languages, with a primary focus on JavaScript (ES6+). Includes data structures, asynchronous patterns, and language features.
+### :open_file_folder: 01. Programming Languages
+- **JavaScript**
+  - [Async Programming](./01_Programming_Languages/JavaScript/Async_Programming.md)
+  - [Destructuring](./01_Programming_Languages/JavaScript/Destructuring.md)
 
-* **[02_Frontend_Development](./02_Frontend_Development/)**
-    > Knowledge related to building user interfaces. Covers semantic HTML, modern CSS (Flexbox, Grid), and key Browser APIs like the DOM and Fetch.
+### :open_file_folder: 02. Frontend Development
+- **CSS**
+  - [Css Reset And Normalize](./02_Frontend_Development/CSS/Css_Reset_And_Normalize.md)
+- **Material Design**
+  - [M3 Web Components Quickstart](./02_Frontend_Development/Material_Design/01_M3_Web_Components_Quickstart.md)
+- **SCSS**
+  - [Mixin vs Extend](./02_Frontend_Development/SCSS/Mixin_vs_Extend.md)
 
-* **[03_Testing_and_QA](./03_Testing_and_QA/)**
-    > **My Core Competency Area.** Deep dives into testing theories, frameworks, and best practices. This is the foundation for my SDET career.
-    > * Covers: Testing Concepts, Cypress, Playwright, API Testing, etc.
+### :open_file_folder: 04. Tools and DevOps
+- **Git**
+  - [Git Commit And Branch Guidelines](./04_Tools_and_DevOps/Git/Git_Commit_And_Branch_Guidelines.md)
 
-* **[04_Tools_and_DevOps](./04_Tools_and_DevOps/)**
-    > Notes on essential development tools and workflows. Includes Git commands, CI/CD with GitHub Actions, and command-line utilities.
+### :open_file_folder: 99. Problem Solving Log
+- [2025-07-31 How to Secure Client Side API Keys](./99_Problem_Solving_Log/2025-07-31_How_to_Secure_Client_Side_API_Keys.md)
 
 ---
 
