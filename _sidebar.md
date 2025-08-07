@@ -15,7 +15,7 @@
     - [Responsive Design Concepts](02_Frontend_Development/CSS/Responsive_Design_Concepts.md)
   - **HTML**
   - **Material Design**
-    - [01 M3 Web Components Quickstart](02_Frontend_Development/Material_Design/01_M3_Web_Components_Quickstart.md)
+    - [M3 Web Components Quickstart](02_Frontend_Development/Material_Design/M3_Web_Components_Quickstart.md)
   - **SCSS**
     - [Mixin vs Extend](02_Frontend_Development/SCSS/Mixin_vs_Extend.md)
 
