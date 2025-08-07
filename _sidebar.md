@@ -12,6 +12,7 @@
   - **Browser APIs**
   - **CSS**
     - [Css Reset And Normalize](02_Frontend_Development/CSS/Css_Reset_And_Normalize.md)
+    - [Responsive Design Concepts](02_Frontend_Development/CSS/Responsive_Design_Concepts.md)
   - **HTML**
   - **Material Design**
     - [01 M3 Web Components Quickstart](02_Frontend_Development/Material_Design/01_M3_Web_Components_Quickstart.md)
